@@ -9,14 +9,7 @@
 
     <div class="container">
 					<center><h1>Live Streaming</h1></center>
-					<p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <?php include("assets/livestreaming.html"); ?>
-
-			</div>
-    </div>
+          <center><iframe width="100%" height="422" style="margin-top: 50px;" src="https://www.hitbox.tv/embed/quit108" frameborder="0" allowfullscreen></iframe></center>
+		</div>
 
 <?php include "assets/footer.html"; ?>
-
